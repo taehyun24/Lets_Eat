@@ -17,4 +17,16 @@
 + API(카카오 로그인, 카카오 페이, 구글 맵스)
 ## 4. 화면
 + 로그인<br/>
-![image](https://user-images.githubusercontent.com/89851529/153701341-61b0421f-00ac-45fc-ae0a-c9abdaad4602.png)
+![image](https://user-images.githubusercontent.com/89851529/153701722-91866b6d-7229-4fe1-840b-45870c00d3ed.png)
++ QR주문<br/>
+![image](https://user-images.githubusercontent.com/89851529/153701568-0722860b-332c-4734-ae5f-4c2939ebf540.png)
++ 식당 리스트<br/>
+![image](https://user-images.githubusercontent.com/89851529/153701775-077ff50e-2562-46c2-a1e4-9aa496c536f0.png)
++ 식당 상세 정보<br/>
+![image](https://user-images.githubusercontent.com/89851529/153701786-1e207d3f-b681-4953-b306-35a0584f15d2.png)
++ 리뷰 사진<br/>
+![image](https://user-images.githubusercontent.com/89851529/153701803-d38ccada-ed45-4ce3-a13f-faf5642f53a2.png)
++ 주문 목록 및 리뷰 등록<br/>
+![image](https://user-images.githubusercontent.com/89851529/153701811-c05eb076-c745-4174-a9d6-f4eed671fcbd.png)
++ 리뷰 사진, 대기 현황<br/>
+![image](https://user-images.githubusercontent.com/89851529/153701817-1bfe468b-fec9-4247-8b8e-cdfc5bb74142.png)
